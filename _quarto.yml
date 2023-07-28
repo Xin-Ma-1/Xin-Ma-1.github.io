@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: false
+  navbar:
+    left:
+      - text: "Home"
+        file: home.qmd  
+      - text: "Publications"
+        file: papers.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Useful Links"
+        file: links.qmd
+    right: 
+      - icon: github
+        href: https://github.com/Xin-Ma-1
+      - icon: twitter
+        href: https://twitter.com/statsXin
+      - text: "{{< iconify academicons google-scholar size=large >}}"
+        href: https://scholar.google.com/citations?user=VSoS0AEAAAAJ&hl=en
+      
+
+format:
+  html:
+    theme: cyborg
+
+editor: visual
+

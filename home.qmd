@@ -1,0 +1,27 @@
+### Xin Ma
+
+![Assistant Professor of Biostatistics, Columbia University Irving Medical Center](images/XM.jpg){fig-align="left" width="150"}
+
+#### News
+
+-   (7/19/2023) Our paper [Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence](https://doi.org/10.1002/hbm.26415) is available online at *Human Brain Mapping*. Check it out!
+
+#### About
+
+I received my BS in Statistics from Peking University and my PhD in Biostatistics from Emory University. My dissertation was advised by [Suprateek Kundu](https://sites.google.com/view/suprateek/home), and focused on developing prediction and feature selection methods for complex, high-dimensional data with applications to neuroimaging. I joined Columbia as an assistant professor in 2023.
+
+My current research interests include statistical learning for high-dimensional data, functional data analysis, measurement error modeling, deep learning methods, imaging data, and cancer-related analysis. Student who is interested in working with me should email me with a brief self-introduction.
+
+#### Contact
+
+Xin Ma
+
+Department of Biostatistics
+
+Columbia University Mailman School of Public Health
+
+722 West 168th St, Room 607
+
+New York, NY 10032
+
+Email: xm2141\@cumc.columbia.edu
