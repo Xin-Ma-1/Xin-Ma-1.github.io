@@ -4,7 +4,7 @@
 
 -   Ma, X.\*, & Kundu, S. (2022). High-dimensional Measurement Error Models for Lipschitz Loss. *arXiv preprint arXiv:2210.15008*. [10.48550/arXiv.2210.15008](https://doi.org/10.48550/arXiv.2210.15008){.uri}.
 
--   Li, Y.+, Ma, X.+\*, Sunderraman, R., Ji, S., & Kundu, S. (2023). Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence. *Human Brain Mapping*, 1-20. [10.1002/hbm.26415](https://doi.org/10.1002/hbm.26415){.uri}.
+-   Li, Y.+, Ma, X.+\*, Sunderraman, R., Ji, S., & Kundu, S. (2023). Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence. *Human Brain Mapping*, *44*(13), 4772-4791. [10.1002/hbm.26415](https://doi.org/10.1002/hbm.26415){.uri}.
 
 -   Ma, X., Kundu, S., & Alzheimer's Disease Neuroimaging Initiative. (2022). Multi-task learning with high-dimensional noisy images. *Journal of the American Statistical Association*, 1-14. [10.1080/01621459.2022.2140052](https://doi.org/10.1080/01621459.2022.2140052){.uri}.
 
