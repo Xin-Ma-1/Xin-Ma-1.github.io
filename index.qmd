@@ -10,7 +10,9 @@
 
 I received my BS in Statistics from Peking University and my PhD in Biostatistics from Emory University. My dissertation was advised by [Suprateek Kundu](https://sites.google.com/view/suprateek/home), and focused on developing prediction and feature selection methods for complex, high-dimensional data with applications to neuroimaging. I joined Columbia as an assistant professor in 2023.
 
-My current research interests include statistical learning for high-dimensional data, functional data analysis, measurement error modeling, deep learning methods, imaging data, and cancer-related analysis. Student who is interested in working with me should email me with a brief self-introduction.
+My current research interests include statistical learning for high-dimensional data, functional data analysis, measurement error modeling, deep learning methods, imaging data, and cancer-related analysis. I am affiliated with the Herbert Irving Comprehensive Cancer Center ([HICCC](https://www.cancer.columbia.edu)) Cancer Biostatistics Shared Resource and an active member of the Functional Data Analysis Working Group ([FDAWG](https://www.publichealth.columbia.edu/research/programs/functional-data-analysis-working-group)).
+
+Student who is interested in working with me should email me with a brief self-introduction.
 
 #### Contact
 
