@@ -4,6 +4,7 @@
 
 #### News
 
+-   (9/7/2023) I start teaching my first full-semester course at the Mailman School of Public Health. The course Applied Regression II covers a wide range of topics including survival data analysis, generalized linear models and linear mixed models. Students come from Biostatistics, Epidemiology, Nursing and beyond. Feeling excited!
 -   (7/19/2023) Our paper [Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence](https://doi.org/10.1002/hbm.26415) is available online at *Human Brain Mapping*. Check it out!
 
 #### About
