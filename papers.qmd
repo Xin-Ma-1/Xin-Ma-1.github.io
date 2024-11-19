@@ -2,11 +2,11 @@
 
 ### Statistical Methodology and Applications
 
+-   Ma, X., Kundu, S., & Alzheimer's Disease Neuroimaging Initiative. (2024). Multi-task learning with high-dimensional noisy images. *Journal of the American Statistical Association*, 119(545), 650-663. [10.1080/01621459.2022.2140052](https://doi.org/10.1080/01621459.2022.2140052){.uri}.
+
+-   Li, Y.+, Ma, X.+\*, Sunderraman, R., Ji, S., & Kundu, S. (2023). Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence. *Human Brain Mapping*, 1-20. [10.1002/hbm.26415](https://doi.org/10.1002/hbm.26415){.uri}.
+
 -   Ma, X.\*, & Kundu, S. (2022). High-dimensional Measurement Error Models for Lipschitz Loss. *arXiv preprint arXiv:2210.15008*. [10.48550/arXiv.2210.15008](https://doi.org/10.48550/arXiv.2210.15008){.uri}.
-
--   Li, Y.+, Ma, X.+\*, Sunderraman, R., Ji, S., & Kundu, S. (2023). Accounting for temporal variability in functional magnetic resonance imaging improves prediction of intelligence. *Human Brain Mapping*, *44*(13), 4772-4791. [10.1002/hbm.26415](https://doi.org/10.1002/hbm.26415){.uri}.
-
--   Ma, X., Kundu, S., & Alzheimer's Disease Neuroimaging Initiative. (2022). Multi-task learning with high-dimensional noisy images. *Journal of the American Statistical Association*, 1-14. [10.1080/01621459.2022.2140052](https://doi.org/10.1080/01621459.2022.2140052){.uri}.
 
 -   Ma, X., Kundu, S., & Stevens, J. (2022). Semi-parametric Bayes regression with network-valued covariates. *Machine Learning*, *111*(10), 3733-3767. [10.1007/s10994-022-06174-z](https://doi.org/10.1007/s10994-022-06174-z).
 
@@ -14,26 +14,28 @@
 
 ### Collaborative Works
 
--   Vaccarino, V., Shah, A. J., Moncayo, V., Nye, J. A., Piccinelli, M., Ko, Y. A., \... & Bliwise, D. L. (2022). Obstructive sleep apnea, myocardial perfusion and myocardial blood flow: A study of older male twins. *Plos one*, *17*(11), e0278420. [10.1371/journal.pone.0278420](https://doi.org/10.1371/journal.pone.0278420).
+-   Shah, A. J., Vaccarino, V., Goldberg, J., Huang, M., Ko, Y. A., Ma, X., ... & Bliwise, D. L. (2024). Posttraumatic stress disorder and obstructive sleep apnea in twins. *JAMA Network Open*, *7*(6), e2416352-e2416352. [10.1001/jamanetworkopen.2024.16352](https://doi.org/10.1001/jamanetworkopen.2024.16352).
 
--   Vaccarino, V., Shah, A. J., Moncayo, V., Nye, J., Piccinelli, M., Ko, Y. A., \... & Bremner, J. D. (2022). Posttraumatic stress disorder, myocardial perfusion, and myocardial blood flow: A longitudinal twin study. *Biological Psychiatry*, *91*(7), 615-625. [10.1016/j.biopsych.2021.09.016](https://doi.org/10.1016/j.biopsych.2021.09.016).
+-   Vaccarino, V., Shah, A. J., Moncayo, V., Nye, J. A., Piccinelli, M., Ko, Y. A., ... & Bliwise, D. L. (2022). Obstructive sleep apnea, myocardial perfusion and myocardial blood flow: A study of older male twins. *Plos one*, *17*(11), e0278420. [10.1371/journal.pone.0278420](https://doi.org/10.1371/journal.pone.0278420).
+
+-   Vaccarino, V., Shah, A. J., Moncayo, V., Nye, J., Piccinelli, M., Ko, Y. A., ... & Bremner, J. D. (2022). Posttraumatic stress disorder, myocardial perfusion, and myocardial blood flow: A longitudinal twin study. *Biological Psychiatry*, *91*(7), 615-625. [10.1016/j.biopsych.2021.09.016](https://doi.org/10.1016/j.biopsych.2021.09.016).
 
 -   Jiwatram-Negrón, T., Shaw, S., Ma, X., El-Bassel, N., & Gilbert, L. (2020). Prevalence and factors associated with sex trading among high-risk substance-involved women under community supervision in New York City. *Criminal Justice and Behavior*, *47*(5), 529-546. [10.1177/0093854819892932](https://doi.org/10.1177/0093854819892932)**.**
 
--   Gilbert, L., Michalopoulos, L., Ma, X., Jiwatram-Negrón, T., Terlikbayeva, A., Primbetova, S., \... & Mergenova, G. (2019). How do risk environment factors influence perpetration of partner violence among male migrant and non-migrant market workers in central Asia?. *Journal of urban health*, *96*, 83-95. [10.1007/s11524-018-0312-0](https://doi.org/10.1007/s11524-018-0312-0).
+-   Gilbert, L., Michalopoulos, L., Ma, X., Jiwatram-Negrón, T., Terlikbayeva, A., Primbetova, S., ... & Mergenova, G. (2019). How do risk environment factors influence perpetration of partner violence among male migrant and non-migrant market workers in central Asia?. *Journal of urban health*, *96*, 83-95. [10.1007/s11524-018-0312-0](https://doi.org/10.1007/s11524-018-0312-0).
 
--   El-Bassel, N., Marotta, P. L., Shaw, S. A., Chang, M., Ma, X., Goddard-Eckrich, D., \... & Gilbert, L. (2017). Women in community corrections in New York City: HIV infection and risks. *International journal of STD & AIDS*, *28*(2), 160-169. [10.1177/0956462416633624](https://doi.org/10.1177/0956462416633624).
+-   El-Bassel, N., Marotta, P. L., Shaw, S. A., Chang, M., Ma, X., Goddard-Eckrich, D., ... & Gilbert, L. (2017). Women in community corrections in New York City: HIV infection and risks. *International journal of STD & AIDS*, *28*(2), 160-169. [10.1177/0956462416633624](https://doi.org/10.1177/0956462416633624).
 
--   Shaw, S. A., Terlikbayeva, A., Famouri, L., Hunt, T., Gilbert, L., Rozental, Y., \... & El-Bassel, N. (2017). HIV testing and access to HIV medical care among people who inject drugs and their intimate partners in Kazakhstan. *Journal of Substance use*, *22*(1), 53-59. [10.3109/14659891.2016.1143046](https://doi.org/10.3109/14659891.2016.1143046).
+-   Shaw, S. A., Terlikbayeva, A., Famouri, L., Hunt, T., Gilbert, L., Rozental, Y., ... & El-Bassel, N. (2017). HIV testing and access to HIV medical care among people who inject drugs and their intimate partners in Kazakhstan. *Journal of Substance use*, *22*(1), 53-59. [10.3109/14659891.2016.1143046](https://doi.org/10.3109/14659891.2016.1143046).
 
--   Gilbert, L., Goddard-Eckrich, D., Hunt, T., Ma, X., Chang, M., Rowe, J., \... & Shaw, S. A. (2016). Efficacy of a computerized intervention on HIV and intimate partner violence among substance-using women in community corrections: a randomized controlled trial. *American Journal of Public Health*, *106*(7), 1278-1286. [10.2105/ajph.2016.303119](https://doi.org/10.2105/ajph.2016.303119).
+-   Gilbert, L., Goddard-Eckrich, D., Hunt, T., Ma, X., Chang, M., Rowe, J., ... & Shaw, S. A. (2016). Efficacy of a computerized intervention on HIV and intimate partner violence among substance-using women in community corrections: a randomized controlled trial. *American Journal of Public Health*, *106*(7), 1278-1286. [10.2105/ajph.2016.303119](https://doi.org/10.2105/ajph.2016.303119).
 
--   Zhussupov, B., Hermosilla, S., Terlikbayeva, A., Aifah, A., Xin, M. A., Zhumadilov, Z., \... & Berikkhanova, K. (2016). Risk factors for primary pulmonary TB in almaty region, Kazakhstan: A matched case-control study. *Iranian journal of public health*, *45*(4), 441. \[[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888171/)\]
+-   Zhussupov, B., Hermosilla, S., Terlikbayeva, A., Aifah, A., Xin, M. A., Zhumadilov, Z., ... & Berikkhanova, K. (2016). Risk factors for primary pulmonary TB in almaty region, Kazakhstan: A matched case-control study. *Iranian journal of public health*, *45*(4), 441. \[[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888171/)\]
 
--   El-Bassel, N., Gilbert, L., Shaw, S. A., Mergenova, G., Terlikbayeva, A., Primbetova, S., \... & Beyrer, C. (2016). The silk road health project: how mobility and migration status influence HIV risks among male migrant workers in Central Asia. *PloS one*, *11*(3), e0151278. [10.1371/journal.pone.0151278](https://doi.org/10.1371/journal.pone.0151278).
+-   El-Bassel, N., Gilbert, L., Shaw, S. A., Mergenova, G., Terlikbayeva, A., Primbetova, S., ... & Beyrer, C. (2016). The silk road health project: how mobility and migration status influence HIV risks among male migrant workers in Central Asia. *PloS one*, *11*(3), e0151278. [10.1371/journal.pone.0151278](https://doi.org/10.1371/journal.pone.0151278).
 
--   El-Bassel, N., Gilbert, L., Terlikbayeva, A., Beyrer, C., Wu, E., Shaw, S. A., \... & Zhussupov, B. (2014). HIV risks among injecting and non-injecting female partners of men who inject drugs in Almaty, Kazakhstan: implications for HIV prevention, research, and policy. *International Journal of Drug Policy*, *25*(6), 1195-1203. [10.1016/j.drugpo.2013.11.009](https://doi.org/10.1016/j.drugpo.2013.11.009).
+-   El-Bassel, N., Gilbert, L., Terlikbayeva, A., Beyrer, C., Wu, E., Shaw, S. A., ... & Zhussupov, B. (2014). HIV risks among injecting and non-injecting female partners of men who inject drugs in Almaty, Kazakhstan: implications for HIV prevention, research, and policy. *International Journal of Drug Policy*, *25*(6), 1195-1203. [10.1016/j.drugpo.2013.11.009](https://doi.org/10.1016/j.drugpo.2013.11.009).
 
--   El-Bassel, N., Gilbert, L., Beyrer, C., Terlikbayeva, A., Wu, E., Ma, X., \... & Rozental, Y. (2014). HCV among Male Injection Drug Users and their Female Partners in Almaty, Kazakhstan: Implications for HCV Treatment and Prevention. \[[Link](http://hdl.lib.byu.edu/1877/5749)\]
+-   El-Bassel, N., Gilbert, L., Beyrer, C., Terlikbayeva, A., Wu, E., Ma, X., ... & Rozental, Y. (2014). HCV among Male Injection Drug Users and their Female Partners in Almaty, Kazakhstan: Implications for HCV Treatment and Prevention. \[[Link](http://hdl.lib.byu.edu/1877/5749)\]
 
--   El-Bassel, N., Gilbert, L., Terlikbayeva, A., Wu, E., Beyrer, C., Shaw, S., \... & Rozental, Y. (2013). HIV among injection drug users and their intimate partners in Almaty, Kazakhstan. *AIDS and Behavior*, *17*, 2490-2500. [10.1007/s10461-013-0484-2](https://doi.org/10.1007/s10461-013-0484-2).
+-   El-Bassel, N., Gilbert, L., Terlikbayeva, A., Wu, E., Beyrer, C., Shaw, S., ... & Rozental, Y. (2013). HIV among injection drug users and their intimate partners in Almaty, Kazakhstan. *AIDS and Behavior*, *17*, 2490-2500. [10.1007/s10461-013-0484-2](https://doi.org/10.1007/s10461-013-0484-2).

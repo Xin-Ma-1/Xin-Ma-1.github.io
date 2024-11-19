@@ -3,3 +3,5 @@
 -   Ginsburg HPC Cluster User Documentation [link](https://confluence.columbia.edu/confluence/display/rcs/Ginsburg+HPC+Cluster+User+Documentation)
 
 -   Writing an R package from scratch by Hilary Parker [link](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+
+-   New C2B2 cluster documentation [link](https://columbiauniversity.atlassian.net/wiki/spaces/RCAC/overview)
