@@ -1,6 +1,6 @@
 ### Xin Ma
 
-![Assistant Professor of Biostatistics, Columbia University Irving Medical Center](images/XM.jpg){fig-align="left" width="150"}
+![Assistant Professor of Biostatistics, Columbia University Irving Medical Center](images/headshot.jpeg){fig-align="left" width="150"}
 
 #### News
 
